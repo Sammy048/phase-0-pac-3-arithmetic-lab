@@ -24,4 +24,3 @@ const preserveDecimal = (n)=>{
 
 }
 
-module.exports={add , subtract, multiply,divide, increment, decrement, makeInt, preserveDecimal}
